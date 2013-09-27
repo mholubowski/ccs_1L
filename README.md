@@ -35,19 +35,29 @@ Additionally, this project aligns perfectly with my goals as a software engineer
 - Image upload, processing, storage (s3), and efficient retrieval
 
 ## Timeline
+
 ###### week 1
 - [ ] flesh out plan
 - [ ] fill out timeline
 - [ ] find more resources
+
 ###### week 2
 - [ ] mocks / UX / flow
+
 ###### week 3
+
 ###### week 4
+
 ###### week 5
+
 ###### week 6
+
 ###### week 7
+
 ###### week 8
+
 ###### week 9
+
 ###### week 10
 
 
